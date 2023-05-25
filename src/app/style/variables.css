@@ -1,0 +1,33 @@
+.mainTheme {
+    /* Color */
+    --body-background-color: #000000;
+    --chapter-title-background-color: #bdecb6;
+    --chapter-title-background-color-hover: #8cad87;
+    --chapter-title-shadow-color: #8cad87;
+    --chapter-title-shadow-color-hover: #bdecb6;
+    --chapter-item-border-color: #565656;
+    --footer-border-color: #787878;
+    --chapter-title-font-color: #121212;
+    --chapter-item-font-color: #cdcdcd;
+    --footer-font-color: #ababab;
+    --footer-link-hover-font-color: #2b54ac;
+
+    /* Font styling */
+    --chapter-title-font-family: serif;
+    --chapter-content-font-family: sans-serif;
+
+    /* Font sizing */
+    --chapter-title-font-size: 22px;
+    --chapter-content-font-size: 16px;
+    --footer-font-size: 10px;
+
+    /* Area Sizing */
+    --base-max-width: 600px;
+    --logo-width: 100%;
+    --menu-width: 100%;
+    --chapter-title-width: 100%;
+    --chapter-item-width: 70%;
+
+    /* Botton styling */
+    --chapter-title-border-radius: 20px;
+}

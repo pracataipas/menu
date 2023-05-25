@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="menu">
+
+<head>
+    
+    <!-- Browser Separator -->
+    <title>Praça da Poncha - Menu</title>
+    <link rel="icon" type="image/x-icon" href="src/lib/icons/logo.ico">
+
+    <!-- App Style -->
+    <link rel="stylesheet" type="text/css" href="src/app/style/index.css">
+    <link rel="stylesheet" type="text/css" href="src/app/style/mainStyle.css">
+    <link rel="stylesheet" type="text/css" href="src/app/style/chapterStyle.css">
+    <link rel="stylesheet" type="text/css" href="src/app/style/variables.css">
+
+    <!-- App Scripts -->
+    <script src="src/lib/angular-1.8.2/angular.js"></script>
+    <script src="src/app/control/menuCtrl.js"></script>
+
+</head>
+
+<body class="mainTheme" ng-controller="menuCtrl">
+
+    <!-- Logo -->
+    <img class="mainTitleClass" src="src/lib/images/pracaLogo.png">
+
+    <!-- Menu chapters -->
+    <div
+        class="menuClass"
+        ng-include src="'src/app/partial/basePartials/menuPartial.html'">
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>Praça da Poncha - Menu - v23.0.1</p>
+        <p>Developed by: Luís Videira</p>
+        <a href="https://github.com/bznice">GitHub</a>
+    </footer>
+    
+</body>
+
+</html>
