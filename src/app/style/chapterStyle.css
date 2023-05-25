@@ -1,0 +1,70 @@
+@import url("variables.css");
+
+/* CHAPTER DIVISION STYLING */
+
+.chapterClass {
+    display: grid;
+    grid-template-columns: 100%;
+    justify-items: center;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: var(--chapter-width);
+    max-width: var(--base-max-width);
+}
+
+/* CHAPTER TITLE STYLING */
+
+.chapterTitleClass {
+    width: var(--chapter-title-width);
+    max-width: var(--base-max-width);
+    padding: 16px 0 16px;
+    background-color: var(--chapter-title-background-color);
+    border-radius: var(--chapter-title-border-radius);
+    box-shadow: 0 2px 3px var(--chapter-title-shadow-color);
+    font-size: var(--chapter-title-font-size);
+    font-family: var(--base-font-family);
+    font-weight: bold;
+    color: var(--chapter-title-font-color);
+}
+
+.chapterTitleClass:hover {
+    background-color: var(--chapter-title-background-color-hover);
+    box-shadow: 2px 2px 3px var(--chapter-title-shadow-color-hover);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* CHAPTER CONTENT STYLING */
+
+.chapterContentClass {
+    display: grid;
+    grid-template-columns: 85% 15%;
+    width: var(--chapter-content-width);
+    max-width: var(--base-max-width);
+    padding: 0;
+    font-size: var(--chapter-content-font-size);
+    font-family: var(--base-font-family);
+    font-weight: normal;
+    color: var(--chapter-item-font-color);
+}
+
+.chapterContentItemClass {
+    text-align: left;
+}
+
+.chapterContentPriceClass {
+    text-align: right;
+}
+
+.chapterContentItemClass,
+.chapterContentPriceClass {
+    margin: 0;
+    padding: 4px;
+    border-bottom: 1px solid var(--chapter-item-border-color);
+}
+
+.chapterContentItemClassFirst,
+.chapterContentPriceClassFirst {
+    border-top: 1px solid var(--chapter-item-border-color);
+}

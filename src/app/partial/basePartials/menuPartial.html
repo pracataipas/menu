@@ -1,0 +1,9 @@
+<div class="chapterClass" ng-repeat="chapter in chapters">
+    <p class="chapterTitleClass" ng-click="showHideChapter(chapter.index)">
+        {{chapter.name}}
+    </p>
+    <div class="chapterContentClass"
+        ng-include src="chapter.partialName"
+        ng-if="chapter.isSelected">
+    </div>
+</div>

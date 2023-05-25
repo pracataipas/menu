@@ -1,0 +1,39 @@
+.defaultVariables {
+
+    /* COLOR */
+
+    --body-background-color: #000000;
+    --chapter-title-background-color: #bdecb6;
+    --chapter-title-background-color-hover: #8cad87;
+    --chapter-title-shadow-color: #8cad87;
+    --chapter-title-shadow-color-hover: #bdecb6;
+    --chapter-title-font-color: #121212;
+    --chapter-item-border-color: #565656;
+    --chapter-item-font-color: #cdcdcd;
+    --footer-border-color: #787878;
+    --footer-font-color: #ababab;
+    --footer-link-hover-font-color: #ffffff;
+
+    /* FONT STYLING */
+
+    --base-font-family: sans-serif;
+
+    /* FONT SIZING */
+
+    --chapter-title-font-size: 20px;
+    --chapter-content-font-size: 20px;
+    --footer-font-size: 10px;
+
+    /* AREA SIZING */
+
+    --base-max-width: 600px;
+    --logo-width: 100%;
+    --menu-width: 100%;
+    --chapter-width: 100%;
+    --chapter-title-width: 100%;
+    --chapter-content-width: 90%;
+
+    /* BOTTON STYLING */
+
+    --chapter-title-border-radius: 20px;
+}
