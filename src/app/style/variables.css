@@ -3,8 +3,8 @@
     /* COLOR */
 
     --body-background-color: #000000;
-    --chapter-title-background-color: radial-gradient(#F7E7CE 70%, #3C6A50 100%);
-    --chapter-title-background-color-hover: radial-gradient(#F1D4A7 70%, #3A6A59 100%);
+    --chapter-title-background-color: linear-gradient(to right bottom, #3C6A50, #F7E7CE, #F7E7CE, #3C6A50);
+    --chapter-title-background-color-hover: linear-gradient(to right bottom, #3A6A59, #F1D4A7, #F1D4A7, #3A6A59);
     --chapter-title-shadow-color: #B9C8BC;
     --chapter-title-shadow-color-hover: #A7A88A;
     --chapter-item-border-color: #565656;
