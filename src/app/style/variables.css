@@ -1,26 +1,33 @@
-.defaultVariables {
+.darkTheme {
 
     /* COLOR */
 
     --body-background-color: #000000;
-    --chapter-title-background-color: #bdecb6;
-    --chapter-title-background-color-hover: #8cad87;
-    --chapter-title-shadow-color: #8cad87;
-    --chapter-title-shadow-color-hover: #bdecb6;
-    --chapter-title-font-color: #121212;
+    --chapter-title-background-color: radial-gradient(#F7E7CE 70%, #3C6A50 100%);
+    --chapter-title-background-color-hover: radial-gradient(#F1D4A7 70%, #3A6A59 100%);
+    --chapter-title-shadow-color: #B9C8BC;
+    --chapter-title-shadow-color-hover: #A7A88A;
     --chapter-item-border-color: #565656;
-    --chapter-item-font-color: #cdcdcd;
     --footer-border-color: #787878;
-    --footer-font-color: #ababab;
-    --footer-link-hover-font-color: #ffffff;
 
     /* FONT STYLING */
 
-    --base-font-family: sans-serif;
+    --chapter-title-font-family: "Fira Sans", serif;
+    --chapter-title-font-style: italic;
+    --chapter-title-font-weight: bold;
+    --chapter-title-font-shadow: -2px -2px #B9C8BC;
+    --chapter-title-font-color: #121212;
+    --chapter-item-font-family: "Fira Sans", serif;
+    --chapter-item-font-style: normal;
+    --chapter-item-font-weight: normal;
+    --chapter-item-font-shadow: none;
+    --chapter-item-font-color: #dedede;
+    --footer-font-color: #ababab;
+    --footer-link-hover-font-color: #ffffff;
 
     /* FONT SIZING */
 
-    --chapter-title-font-size: 20px;
+    --chapter-title-font-size: 24px;
     --chapter-content-font-size: 20px;
     --footer-font-size: 10px;
 
@@ -35,5 +42,5 @@
 
     /* BOTTON STYLING */
 
-    --chapter-title-border-radius: 20px;
+    --chapter-title-border-radius: 10px 90px 10px / 50px 100px;
 }

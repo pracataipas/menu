@@ -2,6 +2,10 @@ var menuApp = angular.module("menu", []);
 menuApp.controller("menuCtrl", ['$scope', function ($scope) {
 
     // --- DATA
+    $scope.chaptersDraft = [
+        {name:"FINGER FOOD", index: 0, partialName:"src/app/partial/chaptersPartials/00_fingerFoodPartial.html", isSelected: false}
+    ];
+
     $scope.chapters = [
         {name:"FINGER FOOD", index: 0, partialName:"src/app/partial/chaptersPartials/00_fingerFoodPartial.html", isSelected: false},
         {name:"PREGO", index: 1, partialName:"src/app/partial/chaptersPartials/01_pregoPartial.html", isSelected: false},
