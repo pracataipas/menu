@@ -7,7 +7,7 @@
     --chapter-title-background-color-hover: linear-gradient(to right bottom, #3A6A59, #F1D4A7, #F1D4A7, #3A6A59);
     --chapter-title-shadow-color: #B9C8BC;
     --chapter-title-shadow-color-hover: #A7A88A;
-    --chapter-item-border-color: #565656;
+    --chapter-item-border-color: #F7E7CE;
     --footer-border-color: #787878;
 
     /* FONT STYLING */
@@ -23,12 +23,12 @@
     --chapter-item-font-shadow: none;
     --chapter-item-font-color: #dedede;
     --footer-font-color: #ababab;
-    --footer-link-hover-font-color: #ffffff;
+    --footer-link-hover-font-color: #F7E7CE;
 
     /* FONT SIZING */
 
     --chapter-title-font-size: 24px;
-    --chapter-content-font-size: 20px;
+    --chapter-content-font-size: 18px;
     --footer-font-size: 10px;
 
     /* AREA SIZING */
@@ -39,6 +39,7 @@
     --chapter-width: 100%;
     --chapter-title-width: 100%;
     --chapter-content-width: 90%;
+    --chapter-content-padding: 10px 2px;
 
     /* BOTTON STYLING */
 
