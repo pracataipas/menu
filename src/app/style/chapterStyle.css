@@ -19,18 +19,20 @@
     width: var(--chapter-title-width);
     max-width: var(--base-max-width);
     padding: 16px 0 16px;
-    background-color: var(--chapter-title-background-color);
+    background: var(--chapter-title-background-color);
     border-radius: var(--chapter-title-border-radius);
-    box-shadow: 0 2px 3px var(--chapter-title-shadow-color);
+    box-shadow: 5px 5px 10px var(--chapter-title-shadow-color);
     font-size: var(--chapter-title-font-size);
-    font-family: var(--base-font-family);
-    font-weight: bold;
+    font-family: var(--chapter-title-font-family);
+    font-style: var(--chapter-title-font-style);
+    font-weight: var(--chapter-title-font-weight);
+    text-shadow: var(--chapter-title-font-shadow);
     color: var(--chapter-title-font-color);
 }
 
 .chapterTitleClass:hover {
-    background-color: var(--chapter-title-background-color-hover);
-    box-shadow: 2px 2px 3px var(--chapter-title-shadow-color-hover);
+    background: var(--chapter-title-background-color-hover);
+    box-shadow: 5px 5px 10px var(--chapter-title-shadow-color-hover);
     text-decoration: underline;
     cursor: pointer;
 }
@@ -44,8 +46,10 @@
     max-width: var(--base-max-width);
     padding: 0;
     font-size: var(--chapter-content-font-size);
-    font-family: var(--base-font-family);
-    font-weight: normal;
+    font-family: var(--chapter-item-font-family);
+    font-style: var(--chapter-item-font-style);
+    font-weight: var(--chapter-item-font-weight);
+    text-shadow: var(--chapter-item-font-shadow);
     color: var(--chapter-item-font-color);
 }
 
