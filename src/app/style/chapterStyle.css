@@ -64,7 +64,7 @@
 .chapterContentItemClass,
 .chapterContentPriceClass {
     margin: 0;
-    padding: 4px;
+    padding: var(--chapter-content-padding);
     border-bottom: 1px solid var(--chapter-item-border-color);
 }
 
