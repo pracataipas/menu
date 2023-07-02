@@ -39,10 +39,9 @@
 
 /* CHAPTER CONTENT STYLING */
 
-.chapterContentClass {
+.chapterContentClass,
+.chapterContentInfoDivClass {
     display: grid;
-    grid-template-columns: 85% 15%;
-    width: var(--chapter-content-width);
     max-width: var(--base-max-width);
     padding: 0;
     font-size: var(--chapter-content-font-size);
@@ -53,7 +52,29 @@
     color: var(--chapter-item-font-color);
 }
 
-.chapterContentItemClass {
+.chapterContentClass {
+    grid-template-columns: 85% 15%;
+    width: var(--chapter-content-width);
+}
+
+.chapterContentInfoDivClass {
+    grid-template-columns: 100%;
+    width: 100%;
+}
+
+.chapterContentItemClass,
+.chapterContentPriceClass,
+.chapterContentInfoItemClass {
+    margin: 0;
+}
+
+.chapterContentItemClass,
+.chapterContentPriceClass {
+    padding: var(--chapter-content-padding);
+}
+
+.chapterContentItemClass,
+.chapterContentInfoItemClass {
     text-align: left;
 }
 
@@ -61,14 +82,6 @@
     text-align: right;
 }
 
-.chapterContentItemClass,
-.chapterContentPriceClass {
-    margin: 0;
-    padding: var(--chapter-content-padding);
-    border-bottom: 1px solid var(--chapter-item-border-color);
-}
-
-.chapterContentItemClassFirst,
-.chapterContentPriceClassFirst {
-    border-top: 1px solid var(--chapter-item-border-color);
+.chapterContentInfoItemClass {
+    padding: 0 0 0 20px;
 }
