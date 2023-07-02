@@ -1,111 +1,111 @@
 MENU
 
--------------------------------------------------------
-
+----------------------------------------------
+0
 ENTRADAS
 
-AMENDOINS: 0,50€
-TREMOÇOS: 0,50€
-AMENDOIM C/MEL E SAL: 1,00€
-BATATA FRITA PALITO: 2,50€
-BATATA FRITA RÚSTICA: 3,00€
-PÃO C/ MANTEIGA DE ALHO: 3,00€
-PÃO ALHO C/ QUEIJO E PEPPERONI: 4,00€
-PÃO ALHO C/QUEIJO E BACON: 4,00€
-MOZARELLA STICKS: 5,00€
-CAMEMBERT BITES: 5,00€
-NUGGETS: 5,00€
-ASINHAS DE FRANGO: 5,50€
+AMENDOINS: 0,50 €
+TREMOÇOS: 0,50 €
+AMENDOIM C/MEL E SAL: 1 €
+BATATA FRITA PALITO: 2,50 €
+BATATA FRITA RÚSTICA: 3 €
+PÃO C/ MANTEIGA DE ALHO: 3 €
+PÃO ALHO C/ QUEIJO E PEPPERONI: 4 €
+PÃO ALHO C/QUEIJO E BACON: 4 €
+MOZARELLA STICKS: 5 €
+CAMEMBERT BITES: 5 €
+NUGGETS: 5 €
+ASINHAS DE FRANGO: 5,50 €
 
--------------------------------------------------------
-
+----------------------------------------------
+1
 PREGOS
 
-ANTIGO MERCADO: 7,50€
-BOÉMIO: 8,50€
-PINHEIRAL: 8,50€
-ARA DE TRAJANO: 8,50€
-CHARNECA: 9,00€
-LAMEIRA: 9,00€
+ANTIGO MERCADO: 7,50 €
+BOÉMIO: 8,50 €
+PINHEIRAL: 8,50 €
+ARA DE TRAJANO: 8,50 €
+CHARNECA: 9 €
+LAMEIRA: 9 €
 
--------------------------------------------------------
-
+----------------------------------------------
+2
 HAMBURGUERES
 
-CHEESEBURGUER: 5,50€
-DOUBLE CHEESE BACON: 7,50€
-BURGUESINHO: 7,00€
+CHEESEBURGUER: 5,50 €
+DOUBLE CHEESE BACON: 7,50 €
+BURGUESINHO: 7 €
 
--------------------------------------------------------
-
+----------------------------------------------
+3
 PANQUECA
 
-PANQUECAS SIMPLES: 4,50€
-OPÇÃO 1: 5,50€
-OPÇÃO 2: 5,50€
-OPÇÃO 3: 6,00€
+PANQUECAS SIMPLES: 4,50 €
+OPÇÃO 1: 5,50 €
+OPÇÃO 2: 5,50 €
+OPÇÃO 3: 6 €
 
--------------------------------------------------------
-
+----------------------------------------------
+4
 CREPE
 
-CREPES SIMPLES: 4,50€
-OPÇÃO 1: 5,50€
-OPÇÃO 2: 5,50€
-OPÇÃO 3: 6,00€
+CREPES SIMPLES: 4,50 €
+OPÇÃO 1: 5,50 €
+OPÇÃO 2: 5,50 €
+OPÇÃO 3: 6 €
 
--------------------------------------------------------
-
+----------------------------------------------
+5
 GELADO
 
-1BOLA: 2,50€
-2BOLAS: 3,50€
-3BOLAS: 4,50€
+1BOLA: 2,50 €
+2BOLAS: 3,50 €
+3BOLAS: 4,50 €
 
--------------------------------------------------------
-
+----------------------------------------------
+6
 SANGRIA
 
-MARACUJÁ 2L: 25€
-MAÇÃ E KIWI 2L: 25€
-FRUTOS VERMELHOS 2L: 25€
-MANGA E MARACUJÁ 2L: 25,50€
-MARACUJÁ 4L: 50€
-MAÇÃ E KIWI 4L: 50€
-FRUTOS VERMELHOS 4L: 50€
-MANGA E MARACUJÁ 4L: 50€
-MARACUJÁ 8L: 100€
-MAÇÃ E KIWI 8L: 100€
-FRUTOS VERMELHOS 8L: 100€
-MANGA E MARACUJÁ 8L: 100€
+MARACUJÁ 2L: 25 €
+MARACUJÁ 4L: 50 €
+MARACUJÁ 8L: 100 €
+MAÇÃ E KIWI 2L: 25 €
+MAÇÃ E KIWI 4L: 50 €
+MAÇÃ E KIWI 8L: 100 €
+FRUTOS VERMELHOS 2L: 25 €
+FRUTOS VERMELHOS 4L: 50 €
+FRUTOS VERMELHOS 8L: 100 €
+MANGA E MARACUJÁ 2L: 25,50 €
+MANGA E MARACUJÁ 4L: 50 €
+MANGA E MARACUJÁ 8L: 100 €
 
--------------------------------------------------------
-
+----------------------------------------------
+7
 PONCHA 
 
-MARACUJÁ: 3,50€
-TANGERINA: 3,50€
-PESCADOR: 4,00€
-ABSINTO: 4,00€
-GARRAFA DE MARACUJÁ: 17,50€
-GARRAFA DE TANGERINA: 17,50€
-GARRAFA DE PESCADOR: 20,00€
-GARRAFA DE ABSINTO: 20,00€
-PONCHA DE 4L: 65,00€
-PONCHA DE 8L: 120€
+MARACUJÁ: 3,50 €
+TANGERINA: 3,50 €
+PESCADOR: 4 €
+ABSINTO: 4 €
+GARRAFA DE MARACUJÁ: 17,50 €
+GARRAFA DE TANGERINA: 17,50 €
+GARRAFA DE PESCADOR: 20 €
+GARRAFA DE ABSINTO: 20 €
+PONCHA DE 4L: 65 €
+PONCHA DE 8L: 120 €
 
--------------------------------------------------------
-
+----------------------------------------------
+8
 COCKTAIL
 
-MOJITO: 7,00€*
-CAIPIRINHA: 6,00€*
-APEROL SPRITZ: 6,00€
-OLD FASHIONED: 7,00€
-WHISKEY SOUR: 7,00€
-VODKA SOUR: 7,00€*
-MOSCOW MULE: 7,00€
-ESPRESSO MARTINI: 8,00€
+MOJITO: 7 €*
+CAIPIRINHA: 6 €*
+APEROL SPRITZ: 6 €
+OLD FASHIONED: 7 €
+WHISKEY SOUR: 7 €
+VODKA SOUR: 7 €*
+MOSCOW MULE: 7 €
+ESPRESSO MARTINI: 8 €
 
 *SABORES DISPONÍVEIS:
 MARACUJA
@@ -116,45 +116,43 @@ COCO
 MORANGO
 FRAMBOESA
 FRUTOS VERMELHOS
-ACRESCE 1€ AO VALOR BASE
+ACRESCE 1 € AO VALOR BASE
 
--------------------------------------------------------
-
+----------------------------------------------
+9
 SISHA
 
-LOVE 66: 20.00€
+LOVE 66: 20.00 €
 (MELAO MELANCIA MARACUJÁ MENTA)
-AWAY: 20.00€
+AWAY: 20.00 €
 (ANANAS MANGA  MENTA)
-KIZZ: 20.00€
+KIZZ: 20.00 €
 (MENTA)
-MI AMOR: 20.00€
+MI AMOR: 20.00 €
 (ANANÁS BANANA MENTOL)
 
--------------------------------------------------------
-
+----------------------------------------------
+10
 CERVEJA
 
-SAGRES DE PRESSÃO (25CL): 1,50€
-BOHEMIA (33CL): 2,00€
-BOHEMIA BOCK (33CL): 2,00€
-HEINEKEN (25CL): 1,70€
-SAGRES DE PRESSÃO (30CL): 2,00€
-SAGRES RADLER (33CL): 2,50€
-CORONA (35CL): 3,00€
-SOMERSBY MAÇÃ/FRUTOS VERMELHOS (33CL): 3,00€
-3 MONT'S: 10,00€
+SAGRES DE PRESSÃO (25CL): 1,50 €
+BOHEMIA (33CL): 2 €
+BOHEMIA BOCK (33CL): 2 €
+HEINEKEN (25CL): 1,70 €
+SAGRES DE PRESSÃO (30CL): 2 €
+SAGRES RADLER (33CL): 2,50 €
+CORONA (35CL): 3 €
+SOMERSBY MAÇÃ/FRUTOS VERMELHOS (33CL): 3 €
+3 MONT'S: 10 €
 
--------------------------------------------------------
-
+----------------------------------------------
+11
 VINHOS
 
 VERDE BRANCO
 
 OURO VERDE
 ITER
-
--------------------------------------------------------
 
 MADURO BRANCO
 
@@ -168,116 +166,116 @@ MADURO TINTO
 CASA DO CANTO
 TERRAS
 
--------------------------------------------------------
-
+----------------------------------------------
+12
 CHAMPANHE E ESPUMANTE
 
-CASA DO CANTO: 18,00€
-PEDRA LASCADA: 25,00€
-G.H.MUMM: 70,00€
+CASA DO CANTO: 18 €
+PEDRA LASCADA: 25 €
+G.H.MUMM: 70 €
 
--------------------------------------------------------
-
+----------------------------------------------
+13
 GIN
 
-BEEFEATER: 5,50€
-BIG BOSS: 6,50€
-NORDÉS: 7,50€
-TANQUERAY TEN: 7,50€
-STAR OF BOMBAY: 7,50€
-CITADELLE: 8,00€
-GIN MARE: 8,00€
-G'VINE: 8,50€
-MONKEY 47: 10,00€
+BEEFEATER: 5,50 €
+BIG BOSS: 6,50 €
+NORDÉS: 7,50 €
+TANQUERAY TEN: 7,50 €
+STAR OF BOMBAY: 7,50 €
+CITADELLE: 8 €
+GIN MARE: 8 €
+G'VINE: 8,50 €
+MONKEY 47: 10 €
 
--------------------------------------------------------
-
+----------------------------------------------
+14
 WHISKY
 
-JAMESON: 5,50€
-BUSHMILLS: 5,50€
-JACK DANIELS: 6,50€
-MONKEY SHOULDER: 7,50€
-J.WALKER BLACK LABEL: 7,50€
-GENTLEMAN JACK: 7,50€
-OLD PARR 12 ANOS: 9,00€
-GLENROTHES 12 ANOS: 10,00€
+JAMESON: 5,50 €
+BUSHMILLS: 5,50 €
+JACK DANIELS: 6,50 €
+MONKEY SHOULDER: 7,50 €
+J.WALKER BLACK LABEL: 7,50 €
+GENTLEMAN JACK: 7,50 €
+OLD PARR 12 ANOS: 9 €
+GLENROTHES 12 ANOS: 10 €
 
--------------------------------------------------------
-
+----------------------------------------------
+15
 VODKA
 
-MOSKOVSKAYA: 5,50€
-ABSOLUT: 6,00€
-GREY GOOSE: 8,00€
-BERVEDERE: 8,00€
+MOSKOVSKAYA: 5,50 €
+ABSOLUT: 6 €
+GREY GOOSE: 8 €
+BERVEDERE: 8 €
 
--------------------------------------------------------
-
+----------------------------------------------
+16
 RUM
 
-BACARDI LIMON: 5,50€
-HAVANA CLUB 3 ANOS: 5.50€
-HAVANA CLUB 7 ANOS: 7,00€
+BACARDI LIMON: 5,50 €
+HAVANA CLUB 3 ANOS: 5.50 €
+HAVANA CLUB 7 ANOS: 7 €
 
--------------------------------------------------------
-
+----------------------------------------------
+17
 APERITIVO E DIGESTIVO
 
-MARTINI ROSSO: 2,00€
-JAGERMEISTER: 2,50€
-MACIEIRA: 2,00€
-DONA ANTONIA 10 ANOS: 3,00€
-CR&F: 4,00€
-LIMONCELLO VILLA MASSA: 4,00€
-MARTINI BIANCO: 5,00€
-PORTO CRUZ LAGRIMA: 5,00€
+MARTINI ROSSO: 2 €
+JAGERMEISTER: 2,50 €
+MACIEIRA: 2 €
+DONA ANTONIA 10 ANOS: 3 €
+CR&F: 4 €
+LIMONCELLO VILLA MASSA: 4 €
+MARTINI BIANCO: 5 €
+PORTO CRUZ LAGRIMA: 5 €
 
--------------------------------------------------------
-
+----------------------------------------------
+18
 LICOR
 
-AMÊNDOA AMARGA: 3,50€
-LICOR BEIRAO: 4,00€
-BAILEYS: 4,00€
+AMÊNDOA AMARGA: 3,50 €
+LICOR BEIRAO: 4 €
+BAILEYS: 4 €
 
--------------------------------------------------------
-
+----------------------------------------------
+19
 SHOT
 
-LOW COST: 1,50€
-PREMIUM 2,00€
+LOW COST: 1,50 €
+PREMIUM: 2 €
 
--------------------------------------------------------
-
+----------------------------------------------
+20
 CAFETARIA
 
-CAFE: 0,80€
-DESCAFEINADO: 0,80€
-PINGO: 0,80€
-MEIA DE LEITE: 1,00€
-CARIOCA DE CAFE: 0,80€
-CARIOCA DE LIMAO: 0,80€
-CARIOCA DUPLO: 1,00€
-CHA: 1,20€
-TORRADA: 1,20€
-TOSTA MISTA: 3,00€
+CAFE: 0,80 €
+DESCAFEINADO: 0,80 €
+PINGO: 0,80 €
+MEIA DE LEITE: 1 €
+CARIOCA DE CAFE: 0,80 €
+CARIOCA DE LIMAO: 0,80 €
+CARIOCA DUPLO: 1 €
+CHA: 1,20 €
+TORRADA: 1,20 €
+TOSTA MISTA: 3 €
 
--------------------------------------------------------
-
+----------------------------------------------
+21
 BEBIDAS A/ÁLCOOL
 
-AGUA 0.50L: 1,00€
-AGUA DAS PEDRAS: 1,20€
- AGUA DAS PEDRAS LIMAO: 1,50€
-AGUA DAS PEDRAS MARACUJÁ: 1,50€
-PLENO: 1,50€
-COCA COLA: 1,80€
-COCA COLA ZERO: 1,80€
-ICED TEA: 1,80€
-SUMOL: 1,80€
-AGUA TÔNICA: 2,00€
-GINGERALLE: 2,00€
-REDBULL: 3,00€
-SUMO DE LARANJA MATURAL: 3,00€
-LIMONADA: 3,00€
+AGUA 0.50L: 1 €
+AGUA DAS PEDRAS: 1,20 €
+AGUA DAS PEDRAS LIMAO: 1,50 €
+AGUA DAS PEDRAS MARACUJÁ: 1,50 €
+PLENO: 1,50 €
+COCA COLA: 1,80 €
+COCA COLA ZERO: 1,80 €
+ICED TEA: 1,80 €
+SUMOL: 1,80 €
+AGUA TÔNICA: 2 €
+GINGERALLE: 2 €
+REDBULL: 3 €
+SUMO DE LARANJA MATURAL: 3 €
+LIMONADA: 3 €
