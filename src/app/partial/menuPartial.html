@@ -1,0 +1,11 @@
+<div class="chapterClass" ng-repeat="chapter in chapters">
+    <p class="chapterTitleClass" ng-click="showHideChapter(chapter)">
+        {{chapter.name}}
+    </p>
+    <table ng-if="chapter.isSelected" class="chapterTableClass">
+        <tr ng-repeat="item in chapter.items">
+            <td class="chapterRowItemClass">{{item.name}}</td>
+            <td class="chapterRowPriceClass">{{item.price}}</td>
+        </tr>
+    </table>
+</div>

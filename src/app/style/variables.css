@@ -2,12 +2,11 @@
 
     /* COLOR */
 
-    --body-background-color: #000000;
+    --body-background-color: #121212;
     --chapter-title-background-color: linear-gradient(to right bottom, #3C6A50, #F7E7CE, #F7E7CE, #3C6A50);
     --chapter-title-background-color-hover: linear-gradient(to right bottom, #3A6A59, #F1D4A7, #F1D4A7, #3A6A59);
     --chapter-title-shadow-color: #B9C8BC;
     --chapter-title-shadow-color-hover: #A7A88A;
-    --chapter-item-border-color: #F7E7CE;
     --footer-border-color: #787878;
 
     /* FONT STYLING */
@@ -21,8 +20,8 @@
     --chapter-item-font-style: normal;
     --chapter-item-font-weight: normal;
     --chapter-item-font-shadow: none;
-    --chapter-item-font-color: #dedede;
-    --footer-font-color: #ababab;
+    --chapter-item-font-color: #DEDEDE;
+    --footer-font-color: #ABABAB;
     --footer-link-hover-font-color: #F7E7CE;
 
     /* FONT SIZING */
@@ -33,15 +32,12 @@
 
     /* AREA SIZING */
 
-    --base-max-width: 600px;
-    --logo-width: 100%;
-    --menu-width: 100%;
-    --chapter-width: 100%;
-    --chapter-title-width: 100%;
-    --chapter-content-width: 90%;
-    --chapter-content-padding: 10px 2px;
-
-    /* BOTTON STYLING */
-
     --chapter-title-border-radius: 10px 90px 10px / 50px 100px;
+    --chapter-content-width: 90%;
+    --chapter-content-padding: 2px 0;
+
+    /* DEFAULT VARIABLES */
+    --default-height-value: 10px;
+    --default-width-value: 600px;
+    --default-width-percentage: 100%;
 }
