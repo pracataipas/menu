@@ -19,8 +19,8 @@
 
 .pageTitleClass {
     margin: 125px 0;
-    width: var(--logo-width);
-    max-width: var(--base-max-width);
+    width: var(--default-width-percentage);
+    max-width: var(--default-width-value);
 }
 
 /* MENU STYLING */
@@ -32,8 +32,8 @@
     margin: 0;
     border: 0;
     padding: 0;
-    width: var(--menu-width);
-    max-width: var(--base-max-width);
+    width: var(--default-width-percentage);
+    max-width: var(--default-width-value);
 }
 
 /* FOOTER STYLING */

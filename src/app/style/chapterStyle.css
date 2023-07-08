@@ -9,15 +9,15 @@
     margin: 0;
     border: 0;
     padding: 0;
-    width: var(--chapter-width);
-    max-width: var(--base-max-width);
+    width: var(--default-width-percentage);
+    max-width: var(--default-width-value);
 }
 
 /* CHAPTER TITLE STYLING */
 
 .chapterTitleClass {
-    width: var(--chapter-title-width);
-    max-width: var(--base-max-width);
+    width: var(--default-width-percentage);
+    max-width: var(--default-width-value);
     padding: 16px 0 16px;
     background: var(--chapter-title-background-color);
     border-radius: var(--chapter-title-border-radius);
@@ -39,10 +39,9 @@
 
 /* CHAPTER CONTENT STYLING */
 
-.chapterContentClass,
-.chapterContentInfoDivClass {
-    display: grid;
-    max-width: var(--base-max-width);
+.chapterTableClass {
+    width: var(--chapter-content-width);
+    max-width: var(--default-width-value);
     padding: 0;
     font-size: var(--chapter-content-font-size);
     font-family: var(--chapter-item-font-family);
@@ -52,36 +51,17 @@
     color: var(--chapter-item-font-color);
 }
 
-.chapterContentClass {
-    grid-template-columns: 85% 15%;
-    width: var(--chapter-content-width);
-}
-
-.chapterContentInfoDivClass {
-    grid-template-columns: 100%;
-    width: 100%;
-}
-
-.chapterContentItemClass,
-.chapterContentPriceClass,
-.chapterContentInfoItemClass {
-    margin: 0;
-}
-
-.chapterContentItemClass,
-.chapterContentPriceClass {
+.chapterRowItemClass,
+.chapterRowPriceClass {
+    min-height: var(--default-height-value);
+    height: var(--default-height-value);
     padding: var(--chapter-content-padding);
 }
 
-.chapterContentItemClass,
-.chapterContentInfoItemClass {
+.chapterRowItemClass {
     text-align: left;
 }
 
-.chapterContentPriceClass {
+.chapterRowPriceClass {
     text-align: right;
-}
-
-.chapterContentInfoItemClass {
-    padding: 0 0 0 20px;
 }
