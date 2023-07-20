@@ -9,7 +9,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "PÃO DE ALHO C/ QUEIJO E BACON", price: "4"},
             {name: "BATATA FRITA", price: "2"},
             {name: "BATATA FRITA ESPECIAL", price: "4.9"},
-            {name: "(batata frita, bacon, pepperoni, salsicha fresca, ovo e molho de francesinha)"}, 
+            {name: "batata frita, bacon, pepperoni, salsicha fresca, ovo e molho de francesinha"}, 
             {name: "MOZARELLA STICKS", price: "4.9"},
             {name: "CAMEMBERT BITES", price: "4.9"},
             {name: "NUGGETS", price: "4.9"},
@@ -24,23 +24,19 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "HAMBURGUERES", index: 2, isSelected: false, items: [
             {name: "CHEESEBURGUER", price: "6.5"},
-            {name: "(hamburger 120g, queijo cheddar, ketchup e alface)", price: " "}, 
-            {name: " ", price: " "},
+            {name: "hamburger 120g, queijo cheddar, ketchup e alface", price: " "},
             {name: "DOUBLE CHEESE BACON", price: "9"},
-            {name: "(2x hamburger 120g, queijo cheddar, bacon, ketchup e alface)", price: " "}, 
-            {name: " ", price: " "},
+            {name: "2x hamburger 120g, queijo cheddar, bacon, ketchup e alface", price: " "},
             {name: "BURGUESINHO", price: "8"},
-            {name: "(hamburger 120g, queijo brie, bacon, mostarda, mel e rúcula)", price: " "}, 
+            {name: "hamburger 120g, queijo brie, bacon, mostarda, mel e rúcula", price: " "},
         ]},
-	    {name: "PREGOS", index: 3, isSelected: false, items: [
+        {name: "PREGOS", index: 3, isSelected: false, items: [
             {name: "ANTIGO MERCADO", price: "7.5"},
-            {name: "(prego, fiambre, queijo e mostarda)", price: " "},
-            {name: " ", price: " "},
+            {name: "prego, fiambre, queijo e mostarda", price: " "},
             {name: "BOÉMIO", price: "8.5"},
-            {name: "(prego, fiambre, queijo cheddar, bacon, maionese especial e alface)", price: " "},
-            {name: " ", price: " "},
+            {name: "prego, fiambre, queijo cheddar, bacon, maionese especial e alface", price: " "},
             {name: "PINHEIRAL", price: "8.5"},
-            {name: "(prego, queijo de cabra, maçã grelhada, mostarda, mel e rúcula)", price: " "}, 
+            {name: "prego, queijo de cabra, maçã grelhada, mostarda, mel e rúcula", price: " "}, 
         ]},
         {name: "SOBREMESA", index: 4, isSelected: false, items: [
             {name: "1 BOLA", price: "2"},
@@ -48,23 +44,23 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "CHEESECAKE", price: "4"},
         ]},
         {name: "VINHOS", index: 5, isSelected: false, items: [
-            {name: "MADURO BRANCO", price: " "},
+            {name: "Maduro Branco", price: " "},
             {name: "CASA DO CANTO", price: "12"},
             {name: "MADRE DE ÁGUA", price: "13"},
             {name: "CASTELO DE NUMÃO", price: "14"},
             {name: " ", price: " "},
-            {name: "VERDE BRANCO", price: " "},
+            {name: "Verde Branco", price: " "},
             {name: "QUINTA DE SANTA CRISTINA", price: "11"},
             {name: " ", price: " "},
-            {name: "MADURO TINTO", price: " "},
+            {name: "Maduro Tinto", price: " "},
             {name: "CASA DO CANTO", price: "12"},
             {name: "MADRE DE ÁGUA", price: "13"},
             {name: " ", price: " "},
-            {name: "ESPUMANTE", price: " "},
+            {name: "Espumante", price: " "},
             {name: "DALVA", price: "17"},
             {name: "PEDRA LASCADA", price: "18"},
             {name: " ", price: " "},
-            {name: "CHAMPANHE", price: "25"},
+            {name: "Champanhe", price: ""},
             {name: "G.H.MUMM", price: "55"}
         ]},
         {name: "SANGRIA", index: 6, isSelected: false, items: [
@@ -89,7 +85,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "WHISKEY SOUR", price: "7"},
             {name: "VODKA SOUR", price: "7"},
             {name: "VODKA SOUR C/ SABOR", price: "8"},
-            {name: "(maracujá, maçã, kiwi, coco, morango, framboesa e manga)", price: " "}, 
+            {name: "maracujá, maçã, kiwi, coco, morango, framboesa e manga", price: " "},
             {name: "ESPRESSO MARTINI", price: "8"}
         ]},
         {name: "CERVEJA", index: 9, isSelected: false, items: [
@@ -114,7 +110,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MONKEY 47", price: "12"}
         ]},
         {name: "WHISKY", index: 11, isSelected: false, items: [
-	        {name: "JAMESON", price: "5.5"},
+            {name: "JAMESON", price: "5.5"},
             {name: "JACK DANIELS", price: "7"},
             {name: "J.WALKER BLACK LABEL", price: "8"},
             {name: "OLD PARR 12 ANOS", price: "11"},
@@ -157,16 +153,13 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "SISHA", index: 17, isSelected: false, items: [
             {name: "LOVE 66", price: "20"},
-            {name: "(melão, melancia, maracujá e menta)", price: " "},
-            {name: " ", price: " "},
+            {name: "melão, melancia, maracujá e menta", price: " "},
             {name: "AWAY", price: "20"},
-            {name: "(ananás, manga e menta)", price: " "},
-            {name: " ", price: " "},
+            {name: "ananás, manga e menta", price: " "},
             {name: "KIZZ", price: "20"},
-            {name: "(menta)", price: " "},
-            {name: " ", price: " "},
+            {name: "menta", price: " "},
             {name: "MI AMOR", price: "20"},
-            {name: "(ananás, banana e menta)", price: " "}
+            {name: "ananás, banana e menta", price: " "}
         ]}
     ];
 
