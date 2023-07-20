@@ -12,7 +12,7 @@
     /* FONT STYLING */
 
     --chapter-title-font-family: "Fira Sans", serif;
-    --chapter-title-font-style: italic;
+    --chapter-title-font-style: normal;
     --chapter-title-font-weight: bold;
     --chapter-title-font-shadow: -2px -2px #B9C8BC;
     --chapter-title-font-color: #121212;
