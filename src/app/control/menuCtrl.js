@@ -94,7 +94,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "CERVEJA", index: 9, isSelected: false, items: [
             {name: "SAGRES 25CL", price: "1.5"},
-            {name: "SAGRES DE PRESSÃO (50CL)", price: "2.8"},
+            {name: "SAGRES 50CL", price: "2.8"},
             {name: "BOHEMIA ORIGINAL", price: "2.5"},
             {name: "BOHEMIA BOCK", price: "2.5"},
             {name: "HEINEKEN", price: "1.70"},
