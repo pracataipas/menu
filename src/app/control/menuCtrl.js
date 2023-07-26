@@ -20,7 +20,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
    	    {name: "FRANCESINHA", index: 1, isSelected: false, items: [
             {name: "FRANCESINHA ESPECIAL", price: "10.9"},
-            {name: "FRANCESINHA NORMAL", price: "6.9"},
+            {name: "FRANCESINHA NORMAL", price: "5.9"},
         ]},
         {name: "HAMBURGUERES", index: 2, isSelected: false, items: [
             {name: "CHEESEBURGUER", price: "6.5"},
