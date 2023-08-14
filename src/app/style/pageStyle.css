@@ -20,7 +20,7 @@
 .pageTitleClass {
     margin: 125px 0;
     width: var(--default-width-percentage);
-    max-width: var(--default-width-value);
+    max-width: var(--logo-width-value);
 }
 
 /* MENU STYLING */
