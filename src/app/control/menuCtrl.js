@@ -4,7 +4,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
     // --- DATA
     $scope.chapters = [
         {name: "PARA PARTILHAR", index: 0, isSelected: false, items: [
-            {name: "PÃO DE ALHO", price: "3"},
+            {name: "PÃO DE ALHO", price: "4"},
             {name: "PÃO DE ALHO C/ QUEIJO E PEPPERONI", price: "4"},
             {name: "PÃO DE ALHO C/ QUEIJO E BACON", price: "4"},
             {name: "BATATA FRITA", price: "2"},
