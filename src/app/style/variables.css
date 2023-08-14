@@ -2,9 +2,9 @@
 
     /* COLOR */
 
-    --body-background-color: #121212;
-    --chapter-title-background-color: #3e835c;
-    --chapter-title-background-color-hover: linear-gradient(to right bottom, #3A6A59, #F1D4A7, #F1D4A7, #3A6A59);
+    --body-background-color: #192d26;
+    --chapter-title-background-color: #3E835C;
+    --chapter-title-background-color-hover: #3A6A59;
     --chapter-title-shadow-color: #B9C8BC;
     --chapter-title-shadow-color-hover: #A7A88A;
     --footer-border-color: #787878;
