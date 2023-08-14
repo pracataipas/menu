@@ -33,7 +33,7 @@
 .chapterTitleClass:hover {
     background: var(--chapter-title-background-color-hover);
     box-shadow: 5px 5px 10px var(--chapter-title-shadow-color-hover);
-    text-decoration: underline;
+    text-decoration: none;
     cursor: pointer;
 }
 
