@@ -3,7 +3,7 @@
     /* COLOR */
 
     --body-background-color: #121212;
-    --chapter-title-background-color: linear-gradient(to right bottom, #3C6A50, #F7E7CE, #F7E7CE, #3C6A50);
+    --chapter-title-background-color: #3e835c;
     --chapter-title-background-color-hover: linear-gradient(to right bottom, #3A6A59, #F1D4A7, #F1D4A7, #3A6A59);
     --chapter-title-shadow-color: #B9C8BC;
     --chapter-title-shadow-color-hover: #A7A88A;
@@ -14,8 +14,8 @@
     --chapter-title-font-family: "Fira Sans", serif;
     --chapter-title-font-style: normal;
     --chapter-title-font-weight: bold;
-    --chapter-title-font-shadow: -2px -2px #B9C8BC;
-    --chapter-title-font-color: #121212;
+    --chapter-title-font-shadow: -2px -2px #121212;
+    --chapter-title-font-color: #F1D4A7;
     --chapter-item-font-family: "Segoe UI", "Helvetica Neue", Helvetica, "Lucida Grande", Arial, Ubuntu, Cantarell, "Fira Sans", sans-serif;
     --chapter-item-font-style: normal;
     --chapter-item-font-weight: normal;
@@ -32,12 +32,13 @@
 
     /* AREA SIZING */
 
-    --chapter-title-border-radius: 10px 90px 10px / 50px 100px;
+    --chapter-title-border-radius: 0px;
     --chapter-content-width: 90%;
     --chapter-content-padding: 2px 0;
 
     /* DEFAULT VARIABLES */
     --default-height-value: 10px;
     --default-width-value: 800px;
+    --logo-width-value: 500px;
     --default-width-percentage: 100%;
 }
