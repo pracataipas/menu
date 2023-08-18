@@ -25,22 +25,26 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         {name: "HAMBURGUERES", index: 2, isSelected: false, items: [
             {name: "CHEESEBURGUER", price: "6.5"},
             {name: "hamburger 120g, queijo cheddar, ketchup e alface", price: " "},
+            {name: " ", price: " "},
             {name: "DOUBLE CHEESE BACON", price: "9"},
             {name: "2x hamburger 120g, queijo cheddar, bacon, ketchup e alface", price: " "},
+            {name: " ", price: " "},
             {name: "BURGUESINHO", price: "8"},
             {name: "hamburger 120g, queijo brie, bacon, mostarda, mel e rúcula", price: " "},
         ]},
         {name: "PREGOS", index: 3, isSelected: false, items: [
             {name: "ANTIGO MERCADO", price: "7.5"},
             {name: "prego, fiambre, queijo e mostarda", price: " "},
+            {name: " ", price: " "},
             {name: "BOÉMIO", price: "8.5"},
             {name: "prego, fiambre, queijo cheddar, bacon, maionese especial e alface", price: " "},
+            {name: " ", price: " "},
             {name: "PINHEIRAL", price: "8.5"},
             {name: "prego, queijo de cabra, maçã grelhada, mostarda, mel e rúcula", price: " "}, 
         ]},
         {name: "SOBREMESA", index: 4, isSelected: false, items: [
-            {name: "1 BOLA", price: "2"},
-            {name: "2 BOLAS", price: "3.5"},
+            {name: "1 BOLA GELADO", price: "2"},
+            {name: "2 BOLAS GELADO", price: "3.5"},
             {name: "CHEESECAKE", price: "4"},
         ]},
         {name: "VINHOS", index: 5, isSelected: false, items: [
