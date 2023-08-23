@@ -155,7 +155,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "SUMO DE LARANJA NATURAL", price: "3"},
             {name: "LIMONADA", price: "3"}
         ]},
-        {name: "SISHA", index: 17, isSelected: false, items: [
+        {name: "SHISHA", index: 17, isSelected: false, items: [
             {name: "LOVE 66", price: "20"},
             {name: "melão, melancia, maracujá e menta", price: " "},
             {name: "AWAY", price: "20"},
