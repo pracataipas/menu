@@ -7,8 +7,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "PÃO DE ALHO", price: "3"},
             {name: "PÃO DE ALHO C/ QUEIJO E PEPPERONI", price: "4"},
             {name: "PÃO DE ALHO C/ QUEIJO E BACON", price: "4"},
-            {name: "BATATA FRITA", price: "2"},
-            {name: "BATATA FRITA ESPECIAL", price: "4.9"},
+            {name: "BATATA FRITA", price: "2.5"},
+            {name: "OVOS ROTOS ESPECIAIS", price: "6.9"},
             {name: "batata frita, bacon, pepperoni, salsicha fresca, ovo e molho de francesinha"}, 
             {name: "MOZARELLA STICKS", price: "4.9"},
             {name: "CAMEMBERT BITES", price: "4.9"},
@@ -19,7 +19,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "TREMOÇOS", price: "0.5"},
         ]},
    	    {name: "FRANCESINHA", index: 1, isSelected: false, items: [
-            {name: "FRANCESINHA ESPECIAL", price: "10.9"},
+            {name: "FRANCESINHA ESPECIAL", price: "11.9"},
             {name: "FRANCESINHA NORMAL", price: "5.9"},
         ]},
         {name: "HAMBURGUERES", index: 2, isSelected: false, items: [
@@ -68,9 +68,13 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "G.H.MUMM", price: "55"}
         ]},
         {name: "SANGRIA", index: 6, isSelected: false, items: [
+            {name: "MARACUJÁ 1L", price: "15"},
             {name: "MARACUJÁ 2L", price: "25"},
+            {name: "MAÇÃ E KIWI 1L", price: "15"},
             {name: "MAÇÃ E KIWI 2L", price: "25"},
+            {name: "FRUTOS VERMELHOS 1L", price: "15"},
             {name: "FRUTOS VERMELHOS 2L", price: "25"},
+            {name: "MANGA E MARACUJÁ 1L", price: "25"}
             {name: "MANGA E MARACUJÁ 2L", price: "25"}
         ]},
         {name: "PONCHA", index: 7, isSelected: false, items: [
