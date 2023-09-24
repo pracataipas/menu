@@ -74,8 +74,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MAÇÃ E KIWI 2L", price: "25"},
             {name: "FRUTOS VERMELHOS 1L", price: "15"},
             {name: "FRUTOS VERMELHOS 2L", price: "25"},
-            {name: "MANGA E MARACUJÁ 1L", price: "25"}
-            {name: "MANGA E MARACUJÁ 2L", price: "25"}
+            {name: "MANGA E MARACUJÁ 1L", price: "25"},
+            {name: "MANGA E MARACUJÁ 2L", price: "25"},
         ]},
         {name: "PONCHA", index: 7, isSelected: false, items: [
             {name: "MARACUJÁ", price: "3,5"},
