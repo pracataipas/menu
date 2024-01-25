@@ -78,12 +78,12 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MANGA E MARACUJÁ 2L", price: "25"},
         ]},
         {name: "PONCHA", index: 7, isSelected: false, items: [
-            {name: "MARACUJÁ", price: "3,5"},
-            {name: "TANGERINA", price: "3.5"},
-            {name: "REGIONAL", price: "4"},
-            {name: "GARRAFA DE MARACUJÁ", price: "17.5"},
-            {name: "GARRAFA DE TANGERINA", price: "17.5"},
-            {name: "GARRAFA DE REGIONAL", price: "20"},
+            {name: "MARACUJÁ", price: "4"},
+            {name: "TANGERINA", price: "4"},
+            {name: "REGIONAL", price: "4.5"},
+            {name: "GARRAFA DE MARACUJÁ", price: "20"},
+            {name: "GARRAFA DE TANGERINA", price: "20"},
+            {name: "GARRAFA DE REGIONAL", price: "22.5"},
         ]},
         {name: "COCKTAIL", index: 8, isSelected: false, items: [
             {name: "MOJITO", price: "7"},
