@@ -118,8 +118,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MONKEY 47", price: "12"}
         ]},
         {name: "WHISKY", index: 11, isSelected: false, items: [
-            {name: "JAMESON", price: "6"},
             {name: "BALLANTINE'S", price: "5.5"},
+            {name: "JAMESON", price: "6"},
             {name: "JACK DANIELS", price: "7"},
             {name: "J.WALKER BLACK LABEL", price: "8"},
             {name: "OLD PARR 12 ANOS", price: "11"},
