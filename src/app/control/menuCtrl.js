@@ -118,7 +118,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MONKEY 47", price: "12"}
         ]},
         {name: "WHISKY", index: 11, isSelected: false, items: [
-            {name: "JAMESON", price: "5.5"},
+            {name: "JAMESON", price: "6"},
+            {name: "BALLANTINE'S", price: "5.5"},
             {name: "JACK DANIELS", price: "7"},
             {name: "J.WALKER BLACK LABEL", price: "8"},
             {name: "OLD PARR 12 ANOS", price: "11"},
@@ -126,7 +127,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "VODKA", index: 12, isSelected: false, items: [
             {name: "MOSKOVSKAYA", price: "5.5"},
-            {name: "ABSOLUT", price: "6.5"},
+            {name: "ABSOLUT", price: "7"},
             {name: "CIROC", price: "8"},
             {name: "GREY GOOSE", price: "9"}
         ]},
@@ -135,7 +136,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "HAVANA CLUB 3 ANOS", price: "6"},
         ]},
         {name: "APERITIVO E DIGESTIVO", index: 14, isSelected: false, items: [
-            {name: "PORTO", price: "2.5"},
+            {name: "PORTO", price: "2"},
             {name: "PORTO TÓNICO", price: "5"},
             {name: "MARTINI BIANCO", price: "5"},
             {name: "CR&F", price: "4"},
