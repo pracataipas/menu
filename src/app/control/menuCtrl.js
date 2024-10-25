@@ -115,7 +115,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         {name: "APERITIVO E DIGESTIVO", index: 10, isSelected: false, items: [
             {name: "SHOT", price: "2"},
             {name: "SHOT PREMIUM", price: "2.5"},
-            {name: "", price: ""}
+            {name: "", price: ""},
             {name: "PORTO", price: "2"},
             {name: "PORTO TÓNICO", price: "5"},
             {name: "MARTINI BIANCO", price: "5"},
