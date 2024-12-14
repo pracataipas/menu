@@ -144,10 +144,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         {name: "SHISHA", index: 13, isSelected: false, items: [
             {name: "LOVE 66", price: "20"},
             {name: "melão, melancia, maracujá e menta", price: " "},
-            {name: "AWAY", price: "20"},
-            {name: "ananás, manga e menta", price: " "},
-            {name: "KIZZ", price: "20"},
-            {name: "menta", price: " "},
+            {name: "L.KILL", price: "20"},
+            {name: "melao, manga, pessego e menta", price: " "},
             {name: "MI AMOR", price: "20"},
             {name: "ananás, banana e menta", price: " "}
         ]}
