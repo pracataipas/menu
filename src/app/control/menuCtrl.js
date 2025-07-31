@@ -4,26 +4,27 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
     // --- DATA
     $scope.chapters = [
         {name: "PARA PARTILHAR", index: 0, isSelected: false, items: [
-            {name: "BATATA FRITA", price: "2.5"},
-            {name: "MOZARELLA STICKS", price: "5.9"},
-            {name: "CAMEMBERT BITES", price: "5.9"},
-            {name: "NUGGETS", price: "5.9"},
-            {name: "ASINHAS DE FRANGO", price: "6.9"},
-{name: "TOSTA MISTA", price: "2.5"},
+            {name: "BATATA FRITA", price: "3.0"},
+            {name: "MOZARELLA STICKS", price: "6.5"},
+            {name: "CAMEMBERT BITES", price: "6.5"},
+            {name: "NUGGETS", price: "6.5"},
+            {name: "ASINHAS DE FRANGO", price: "7.5"},
+            {name: "TOSTA MISTA", price: "3.0"},
             {name: "AMENDOINS", price: "0.5"},
             {name: "AMENDOINS C/ MEL E SAL", price: "1"},
             {name: "TREMOÇOS", price: "0.5"},
         ]},
         {name: "VINHOS", index: 1, isSelected: false, items: [
             {name: "- Maduro Branco", price: " "},
-            {name: "100 HECTARES", price: "15"},
+            {name: "GRAVIDADE", price: "15"},
             {name: "VAL MOREIRA", price: "23"},
-            {name: "VALE DO BRAGÃO", price: "10"},
+            {name: "SILICA", price: "10"},
             {name: "VOLTE FACE", price: "18"},
             {name: "SOITO", price: "21"},
             {name: " ", price: " "},
             {name: "- Verde Branco", price: " "},
             {name: "VARANDA DO CONDE", price: "7.5"},
+            {name: "BURRA DE FERRO", price: "7.5"},
             {name: " ", price: " "},
             {name: "- Maduro Tinto", price: " "},
             {name: "VALE DO BRAGÃO", price: "10"},
@@ -79,9 +80,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "CARLSBERG", price: "1.7"},
             {name: "GRIMBERGEN", price: "3"},
             {name: "1927 MUNICH DUNKEL", price: "3"},,
-            {name: "SOMERSBY MAÇÃ Pressão", price: "2"},
             {name: "SOMERSBY 33CL", price: "3"},
-            {name: "Frutos Vermelhos, Manga e Lima", price: " "},
+            {name: "Frutos Vermelhos, Maça", price: " "},
         ]},
         {name: "GIN", index: 6, isSelected: false, items: [
             {name: "BEEFEATER", price: "6"},
@@ -125,7 +125,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         {name: "LICOR", index: 11, isSelected: false, items: [
             {name: "AMÊNDOA AMARGA", price: "3.5"},
             {name: "LICOR BEIRÃO", price: "4"},
-            {name: "BAILEYS", price: "4"}
+            {name: "BAILEYS", price: "4.5"}
         ]},
         {name: "ÁGUA E SUMO", index: 12, isSelected: false, items: [
             {name: "ÁGUA", price: "1"},
