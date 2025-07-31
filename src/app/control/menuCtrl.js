@@ -9,7 +9,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "CAMEMBERT BITES", price: "5.9"},
             {name: "NUGGETS", price: "5.9"},
             {name: "ASINHAS DE FRANGO", price: "6.9"},
-{name: "TOSTA MISTA, price: "2.5"},
+{name: "TOSTA MISTA", price: "2.5"},
             {name: "AMENDOINS", price: "0.5"},
             {name: "AMENDOINS C/ MEL E SAL", price: "1"},
             {name: "TREMOÇOS", price: "0.5"},
