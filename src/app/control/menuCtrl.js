@@ -112,8 +112,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "HAVANA CLUB 3 ANOS", price: "6"},
         ]},
         {name: "APERITIVO E DIGESTIVO", index: 10, isSelected: false, items: [
-            {name: "SHOT", price: "2"},
-            {name: "SHOT PREMIUM", price: "2.5"},
+            {name: "SHOT", price: "2.5"},
+            {name: "SHOT PREMIUM", price: "3"},
             {name: "", price: ""},
             {name: "PORTO", price: "2"},
             {name: "PORTO TÓNICO", price: "5"},
