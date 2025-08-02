@@ -134,7 +134,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "COCA-COLA ZERO", price: "1.8"},
             {name: "ICE TEA Pêssego", price: "1.8"},
             {name: "ÁGUA TÓNICA", price: "2"},
-            {name: "GINGER ALE", price: "2"},
+            {name: "GINGER ALE", price: "2.5"},
             {name: "REDBULL", price: "2.5"},
             {name: "SUMO DE LARANJA NATURAL", price: "3"},
             {name: "LIMONADA", price: "3"}
