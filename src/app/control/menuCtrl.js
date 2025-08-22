@@ -38,7 +38,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: " ", price: " "},
             {name: "- Champanhe", price: ""},
             {name: "GH MUMM", price: "75"},
-            {name: "Taittinger", price: "80"},
+            {name: "TAITTINGER", price: "80"},
             {name: " ", price: " "},
             {name: "- Rose", price: ""},
             {name: "BLEND.PT", price: "11"}
