@@ -4,35 +4,35 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
     // --- DATA
     $scope.chapters = [
         {name: "PARA PARTILHAR", index: 0, isSelected: false, items: [
-            {name: "BATATA FRITA", price: "3.0"},
+            {name: "BATATA FRITA", price: "3"},
             {name: "MOZARELLA STICKS", price: "6.5"},
             {name: "CAMEMBERT BITES", price: "6.5"},
             {name: "NUGGETS", price: "6.5"},
             {name: "ASINHAS DE FRANGO", price: "7.5"},
-            {name: "TOSTA MISTA", price: "3.0"},
+            {name: "TOSTA MISTA", price: "3"},
             {name: "AMENDOINS", price: "0.5"},
             {name: "AMENDOINS C/ MEL E SAL", price: "1"},
-            {name: "TREMOÇOS", price: "0.5"},
+            {name: "TREMOÇOS", price: "0.5"}
         ]},
         {name: "VINHOS", index: 1, isSelected: false, items: [
-            {name: "- Maduro Branco", price: " "},
+            {name: "- Maduro Branco", price: ""},
             {name: "GRAVIDADE", price: "23"},
             {name: "VAL MOREIRA", price: "23"},
             {name: "SILICA", price: "10.5"},
             {name: "VOLTE FACE", price: "18"},
             {name: "SOITO", price: "21"},
             {name: " ", price: " "},
-            {name: "- Verde Branco", price: " "},
+            {name: "- Verde Branco", price: ""},
             {name: "VARANDA DO CONDE", price: "7.5"},
             {name: "BURRA DE FERRO", price: "10"},
             {name: " ", price: " "},
-            {name: "- Maduro Tinto", price: " "},
+            {name: "- Maduro Tinto", price: ""},
             {name: "VALE DO BRAGÃO", price: "10"},
             {name: "VALE DO BRAGÃO Reserva", price: "20"},
             {name: "SOITO", price: "18"},
             {name: "VOLTE FACE", price: "18"},
             {name: " ", price: " "},
-            {name: "- Espumante", price: " "},
+            {name: "- Espumante", price: ""},
             {name: "DALVA", price: "17"},
             {name: "ALEIXO", price: "20"},
             {name: " ", price: " "},
@@ -51,7 +51,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "FRUTOS VERMELHOS 1L", price: "15"},
             {name: "FRUTOS VERMELHOS 2L", price: "25"},
             {name: "MANGA E MARACUJÁ 1L", price: "15"},
-            {name: "MANGA E MARACUJÁ 2L", price: "25"},
+            {name: "MANGA E MARACUJÁ 2L", price: "25"}
         ]},
         {name: "PONCHA", index: 3, isSelected: false, items: [
             {name: "MARACUJÁ", price: "4"},
@@ -59,7 +59,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "REGIONAL", price: "4.5"},
             {name: "GARRAFA DE MARACUJÁ", price: "20"},
             {name: "GARRAFA DE TANGERINA", price: "20"},
-            {name: "GARRAFA DE REGIONAL", price: "22.5"},
+            {name: "GARRAFA DE REGIONAL", price: "22.5"}
         ]},
         {name: "COCKTAIL", index: 4, isSelected: false, items: [
             {name: "MOJITO", price: "7"},
@@ -69,7 +69,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "WHISKEY SOUR", price: "7.5"},
             {name: "VODKA SOUR", price: "7.5"},
             {name: "VODKA SOUR C/ SABOR", price: "8.5"},
-            {name: "maracujá, maçã, kiwi, coco, morango, framboesa e manga", price: " "},
+            {name: "maracujá, maçã, kiwi, coco, morango, framboesa e manga", price: ""},
             {name: "ESPRESSO MARTINI", price: "8"}
         ]},
         {name: "CERVEJA", index: 5, isSelected: false, items: [
@@ -79,9 +79,9 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "SUPER BOCK ABADIA 33CL", price: "2.5"},
             {name: "CARLSBERG", price: "1.7"},
             {name: "GRIMBERGEN", price: "3"},
-            {name: "1927 MUNICH DUNKEL", price: "3"},,
+            {name: "1927 MUNICH DUNKEL", price: "3"},
             {name: "SOMERSBY 33CL", price: "3"},
-            {name: "Frutos Vermelhos, Maça", price: " "},
+            {name: "Frutos Vermelhos, Maça", price: ""}
         ]},
         {name: "GIN", index: 6, isSelected: false, items: [
             {name: "BEEFEATER", price: "6"},
@@ -109,7 +109,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "RUM", index: 9, isSelected: false, items: [
             {name: "BACARDI LIMÓN", price: "5.5"},
-            {name: "HAVANA CLUB 3 ANOS", price: "6"},
+            {name: "HAVANA CLUB 3 ANOS", price: "6"}
         ]},
         {name: "APERITIVO E DIGESTIVO", index: 10, isSelected: false, items: [
             {name: "SHOT", price: "2.5"},
@@ -142,11 +142,11 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "SHISHA", index: 13, isSelected: false, items: [
             {name: "LOVE 66", price: "20"},
-            {name: "melão, melancia, maracujá e menta", price: " "},
+            {name: "melão, melancia, maracujá e menta", price: ""},
             {name: "L.KILL", price: "20"},
-            {name: "melao, manga, pessego e menta", price: " "},
+            {name: "melao, manga, pessego e menta", price: ""},
             {name: "MI AMOR", price: "20"},
-            {name: "ananás, banana e menta", price: " "}
+            {name: "ananás, banana e menta", price: ""}
         ]}
     ];
 
