@@ -40,7 +40,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "GH MUMM", price: "75"},
             {name: "TAITTINGER", price: "80"},
             {name: " ", price: " "},
-            {name: "- Rose", price: ""},
+            {name: "- Rosé", price: ""},
             {name: "BLEND.PT", price: "11"}
         ]},
         {name: "SANGRIA", index: 2, isSelected: false, items: [
@@ -81,7 +81,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "GRIMBERGEN", price: "3"},
             {name: "1927 MUNICH DUNKEL", price: "3"},
             {name: "SOMERSBY 33CL", price: "3"},
-            {name: "Frutos Vermelhos, Maça", price: ""}
+            {name: "frutos vermelhos, maçã", price: ""}
         ]},
         {name: "GIN", index: 6, isSelected: false, items: [
             {name: "BEEFEATER", price: "6"},
@@ -144,7 +144,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "LOVE 66", price: "20"},
             {name: "melão, melancia, maracujá e menta", price: ""},
             {name: "L.KILL", price: "20"},
-            {name: "melao, manga, pessego e menta", price: ""},
+            {name: "melão, manga, pêssego e menta", price: ""},
             {name: "MI AMOR", price: "20"},
             {name: "ananás, banana e menta", price: ""}
         ]}
