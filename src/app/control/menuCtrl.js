@@ -20,7 +20,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "VAL MOREIRA", price: "23"},
             {name: "SILICA", price: "10.5"},
             {name: "VOLTE FACE", price: "18"},
-            {name: "SOITO", price: "21"},
+            {name: "QUINTA DAS CAMELIAS", price: "13"},
             {name: " ", price: " "},
             {name: "- Verde Branco", price: ""},
             {name: "VARANDA DO CONDE", price: "7.5"},
