@@ -115,7 +115,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "SHOT", price: "2.5"},
             {name: "SHOT PREMIUM", price: "3"},
             {name: "", price: ""},
-            {name: "PORTO", price: "2"},
+            {name: "PORTO", price: "3"},
             {name: "PORTO TÓNICO", price: "5"},
             {name: "MARTINI BIANCO", price: "5"},
             {name: "MACIEIRA", price: "3"},
