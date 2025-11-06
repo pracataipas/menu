@@ -13,6 +13,15 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "AMENDOINS", price: "0.5"},
             {name: "AMENDOINS C/ MEL E SAL", price: "1"},
             {name: "TREMOÇOS", price: "0.5"}
+       ]},
+        {name: "CAFETARIA", index: 2, isSelected: false, items: [
+            {name: "CAFE", price: "1"},
+            {name: "DESCAFEINADO", price: "1"},
+            {name: "CARIOCA DE CAFE", price: "0.7"},
+            {name: "CARIOCOA DE LIMÃO", price: "0.7"},
+            {name: "CARIOCA DE LIMÃO DUPLO", price: "1.2"},
+            {name: "CHA", price: "2"},
+            {name: "CAPUCCINO", price: "2.5"}
         ]},
         {name: "VINHOS", index: 1, isSelected: false, items: [
             {name: "- Maduro Branco", price: ""},
