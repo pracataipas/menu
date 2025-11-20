@@ -73,7 +73,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         {name: "COCKTAIL", index: 5, isSelected: false, items: [
             {name: "MOJITO", price: "7"},
             {name: "CAIPIRINHA", price: "6"},
-            {name: "OLD FASHIONED", price: "7"},
+            {name: "OLD FASHIONED", price: "8.5"},
             {name: "NEGRONI", price: "8"},
             {name: "WHISKEY SOUR", price: "7.5"},
             {name: "VODKA SOUR", price: "7.5"},
@@ -93,8 +93,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "frutos vermelhos, maçã", price: ""}
         ]},
         {name: "GIN", index: 7, isSelected: false, items: [
-            {name: "BEEFEATER", price: "6"},
-            {name: "BOMBAY SAPHIRE", price: "6.5"},
+            {name: "BEEFEATER", price: "6.5"},
+            {name: "BOMBAY SAPHIRE", price: "7"},
             {name: "MARTIN MILLER'S", price: "7.5"},
             {name: "TANQUERAY TEN", price: "8"},
             {name: "CITADELLE", price: "8"},
@@ -103,11 +103,11 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MONKEY 47", price: "12"},
         ]},
         {name: "WHISKY", index: 8, isSelected: false, items: [
-            {name: "BALLANTINE'S", price: "5.5"},
-            {name: "JAMESON", price: "6"},
-            {name: "JACK DANIELS", price: "7"},
-            {name: "J.WALKER BLACK LABEL", price: "7.5"},
-            {name: "MONKEY SHOULDER", price: "8"},
+            {name: "BALLANTINE'S", price: "6"},
+            {name: "JAMESON", price: "6.5"},
+            {name: "JACK DANIELS", price: "7.5"},
+            {name: "J.WALKER BLACK LABEL", price: "8"},
+            {name: "MONKEY SHOULDER", price: "9"},
             {name: "OLD PARR 12 ANOS", price: "11"}
         ]},
         {name: "VODKA", index: 9, isSelected: false, items: [
@@ -117,8 +117,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "GREY GOOSE", price: "9"}
         ]},
         {name: "RUM", index: 10, isSelected: false, items: [
-            {name: "BACARDI LIMÓN", price: "5.5"},
-            {name: "HAVANA CLUB 3 ANOS", price: "6"}
+            {name: "BACARDI LIMÓN", price: "6"},
+            {name: "HAVANA CLUB 3 ANOS", price: "6.5"}
         ]},
         {name: "APERITIVO E DIGESTIVO", index: 11, isSelected: false, items: [
             {name: "SHOT", price: "2.5"},
