@@ -111,7 +111,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "OLD PARR 12 ANOS", price: "11"}
         ]},
         {name: "VODKA", index: 9, isSelected: false, items: [
-            {name: "MOSKOVSKAYA", price: "5.5"},
+            {name: "MOSKOVSKAYA", price: "6"},
             {name: "ABSOLUT", price: "7"},
             {name: "BELVEDERE", price: "8"},
             {name: "GREY GOOSE", price: "9"}
