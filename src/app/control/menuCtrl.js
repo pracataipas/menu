@@ -74,6 +74,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "MOJITO", price: "7"},
             {name: "CAIPIRINHA", price: "6"},
             {name: "OLD FASHIONED", price: "8.5"},
+            {name: "IRISH COFFEE", price: "9"},
             {name: "NEGRONI", price: "8"},
             {name: "WHISKEY SOUR", price: "7.5"},
             {name: "VODKA SOUR", price: "7.5"},
