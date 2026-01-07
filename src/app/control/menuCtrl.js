@@ -138,15 +138,15 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         ]},
         {name: "ÁGUA E SUMO", index: 13, isSelected: false, items: [
             {name: "ÁGUA", price: "1"},
-            {name: "ÁGUA DAS PEDRAS", price: "1.2"},
-            {name: "ÁGUA DAS PEDRAS SABORES", price: "1.5"},
+            {name: "ÁGUA DAS PEDRAS", price: "1.5"},
+            {name: "ÁGUA DAS PEDRAS SABORES", price: "1.7"},
             {name: "COCA-COLA", price: "1.8"},
             {name: "COCA-COLA ZERO", price: "1.8"},
             {name: "ICE TEA Pêssego", price: "1.8"},
             {name: "ÁGUA TÓNICA", price: "2"},
             {name: "GINGER ALE", price: "2"},
             {name: "REDBULL", price: "2.5"},
-            {name: "SUMO DE LARANJA NATURAL", price: "3"},
+            {name: "SUMO DE LARANJA NATURAL", price: "4"},
             {name: "LIMONADA", price: "3"}
         ]},
         {name: "SHISHA", index: 14, isSelected: false, items: [
