@@ -88,7 +88,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "SUPER BOCK ABADIA 33CL", price: "2.5"},
             {name: "CARLSBERG", price: "1.7"},
             {name: "GRIMBERGEN", price: "3"},
-            {name: "1927 MUNICH DUNKEL", price: "3"},
+            {name: "1927 MUNICH DUNKEL", price: "3.5"},
             {name: "SOMERSBY 33CL", price: "3"},
             {name: "frutos vermelhos, maçã", price: ""}
         ]},
@@ -145,7 +145,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "ICE TEA Pêssego", price: "1.8"},
             {name: "ÁGUA TÓNICA", price: "2"},
             {name: "GINGER ALE", price: "2"},
-            {name: "REDBULL", price: "2.5"},
+            {name: "REDBULL", price: "3"},
             {name: "SUMO DE LARANJA NATURAL", price: "4"},
             {name: "LIMONADA", price: "3"}
         ]},
