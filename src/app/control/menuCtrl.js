@@ -33,6 +33,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: " ", price: " "},
             {name: "- Verde Branco", price: ""},
             {name: "BURRA DE FERRO", price: "10"},
+            {name: "GIROFLE", price: "10"},
             {name: " ", price: " "},
             {name: "- Maduro Tinto", price: ""},
             {name: "VALE DO BRAGÃO", price: "10"},
