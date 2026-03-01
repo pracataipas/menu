@@ -10,16 +10,16 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "NUGGETS", price: "6.5"},
             {name: "ASINHAS DE FRANGO", price: "7.5"},
             {name: "TOSTA MISTA", price: "3"},
-            {name: "AMENDOINS", price: "0.5"},
-            {name: "AMENDOINS C/ MEL E SAL", price: "1"},
-            {name: "TREMOÇOS", price: "0.5"}
+            {name: "AMENDOINS", price: "1"},
+            {name: "AMENDOINS C/ MEL E SAL", price: "1.5"},
+            {name: "TREMOÇOS", price: "1"}
        ]},
         {name: "CAFETARIA", index: 1, isSelected: false, items: [
             {name: "CAFE", price: "1"},
             {name: "DESCAFEINADO", price: "1"},
             {name: "CARIOCA DE CAFE", price: "0.8"},
             {name: "CARIOCOA DE LIMÃO", price: "0.8"},
-            {name: "CARIOCA DE LIMÃO DUPLO", price: "1.2"},
+            {name: "CARIOCA DE LIMÃO DUPLO", price: "1.5"},
             {name: "CHA", price: "2"},
             {name: "CAPUCCINO", price: "2.5"}
         ]},
@@ -83,11 +83,11 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "ESPRESSO MARTINI", price: "8.5"}
         ]},
         {name: "CERVEJA", index: 6, isSelected: false, items: [
-            {name: "SUPER BOCK 20CL", price: "1.5"},
-            {name: "SUPER BOCK 35CL", price: "2.5"},
-            {name: "SUPER BOCK 50CL", price: "3"},
+            {name: "SUPER BOCK 20CL", price: "1.7"},
+            {name: "SUPER BOCK 35CL", price: "2.8"},
+            {name: "SUPER BOCK 50CL", price: "3.4"},
             {name: "SUPER BOCK ABADIA 33CL", price: "2.5"},
-            {name: "CARLSBERG", price: "1.7"},
+            {name: "CARLSBERG", price: "2"},
             {name: "GRIMBERGEN", price: "3"},
             {name: "1927 MUNICH DUNKEL", price: "3.5"},
             {name: "SOMERSBY 33CL", price: "3"},
@@ -114,8 +114,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
         {name: "VODKA", index: 9, isSelected: false, items: [
             {name: "MOSKOVSKAYA", price: "6.5"},
             {name: "ABSOLUT", price: "7.5"},
-            {name: "BELVEDERE", price: "8.5"},
-            {name: "GREY GOOSE", price: "9.5"}
+            {name: "BELVEDERE", price: "9"},
+            {name: "GREY GOOSE", price: "10"}
         ]},
         {name: "RUM", index: 10, isSelected: false, items: [
             {name: "BACARDI LIMÓN", price: "6.5"},
@@ -141,9 +141,9 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "ÁGUA", price: "1"},
             {name: "ÁGUA DAS PEDRAS", price: "1.5"},
             {name: "ÁGUA DAS PEDRAS SABORES", price: "1.7"},
-            {name: "COCA-COLA", price: "1.8"},
-            {name: "COCA-COLA ZERO", price: "1.8"},
-            {name: "ICE TEA Pêssego", price: "1.8"},
+            {name: "COCA-COLA", price: "2"},
+            {name: "COCA-COLA ZERO", price: "2"},
+            {name: "ICE TEA Pêssego", price: "2"},
             {name: "ÁGUA TÓNICA", price: "2"},
             {name: "GINGER ALE", price: "2"},
             {name: "REDBULL", price: "3"},
@@ -151,11 +151,11 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "LIMONADA", price: "3"}
         ]},
         {name: "SHISHA", index: 14, isSelected: false, items: [
-            {name: "LOVE 66", price: "20"},
+            {name: "LOVE 66", price: "22"},
             {name: "melão, melancia, maracujá e menta", price: ""},
-            {name: "L.KILL", price: "20"},
+            {name: "L.KILL", price: "22"},
             {name: "melão, manga, pêssego e menta", price: ""},
-            {name: "MI AMOR", price: "20"},
+            {name: "MI AMOR", price: "22"},
             {name: "ananás, banana e menta", price: ""}
         ]}
     ];
