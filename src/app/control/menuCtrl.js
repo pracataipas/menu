@@ -43,7 +43,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: " ", price: " "},
             {name: "- Espumante", price: ""},
             {name: "DALVA", price: "17"},
-            {name: "ALEIXO", price: "20"},
+            {name: "Murganheira Super Reserva Bruto", price: "27"},
             {name: " ", price: " "},
             {name: "- Champanhe", price: ""},
             {name: "GH MUMM", price: "75"},
