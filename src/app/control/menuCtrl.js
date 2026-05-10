@@ -88,8 +88,8 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "SUPER BOCK 50CL", price: "3.4"},
             {name: "SUPER BOCK ABADIA 33CL", price: "2.5"},
             {name: "CARLSBERG", price: "2"},
-            {name: "GRIMBERGEN", price: "3"},
-            {name: "1927 MUNICH DUNKEL", price: "3.5"},
+            {name: "GRIMBERGEN", price: "3.5"},
+            {name: "1927 MUNICH DUNKEL", price: "3.8"},
             {name: "SOMERSBY 33CL", price: "3"},
             {name: "frutos vermelhos, maçã", price: ""}
         ]},
