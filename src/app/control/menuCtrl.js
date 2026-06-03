@@ -141,7 +141,7 @@ menuApp.controller("menuCtrl", ['$scope', function ($scope) {
             {name: "ÁGUA", price: "1"},
             {name: "ÁGUA DAS PEDRAS", price: "1.5"},
             {name: "ÁGUA DAS PEDRAS SABORES", price: "1.7"},
-            {name: "COCA-COLA", price: "2"},
+            {name: "COCA-COLA", price: "2.1"},
             {name: "COCA-COLA ZERO", price: "2"},
             {name: "ICE TEA Pêssego", price: "2"},
             {name: "ÁGUA TÓNICA", price: "2"},
